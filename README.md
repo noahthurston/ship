@@ -5,7 +5,7 @@ Should run on any macOS or Linux OS with git installed, just navigate to your gi
 Command:
 ship "my commit message"
 
-To install:
+To install:  
 1. clone/download the repo.  
 2. navigate to the "ship" folder and run "chmod +x ship" to make the program executable.  
 3. copy the "ship" executable to your $PATH, usually /usr/local/bin (you can find it by running "echo $PATH").  
